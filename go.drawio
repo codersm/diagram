@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T02:59:17.834Z" agent="5.0 (Macintosh)" version="14.8.0" etag="nn-S9hM-8IcJFrA7gqt5" type="github"><diagram id="xQpIxAtVRQsH2V67RfwZ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-20T12:25:38.624Z" agent="5.0 (Macintosh)" etag="Yf9B5PdrGqohdu2r9ofz" version="14.8.0" type="github">
+  <diagram id="xQpIxAtVRQsH2V67RfwZ" name="Page-1">
+    <mxGraphModel dx="1826" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-1" value="&lt;h1&gt;那么为什么值类型在参数传递中无法修改呢？这也要从内存讲起。&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="90" width="700" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z3k0KM5BueHmogXB_P4T-2" target="Z3k0KM5BueHmogXB_P4T-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-2" value="&lt;h1&gt;&lt;font color=&quot;#FF0000&quot;&gt;值传递&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="210" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z3k0KM5BueHmogXB_P4T-3" target="Z3k0KM5BueHmogXB_P4T-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z3k0KM5BueHmogXB_P4T-3" target="Z3k0KM5BueHmogXB_P4T-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-3" value="引用类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-9" value="map" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-11" value="chan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="216" y="272" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z3k0KM5BueHmogXB_P4T-14" value="Go 语言中的函数、接口、slice 切片都可以称为引用类型。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247" y="325" width="249" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
