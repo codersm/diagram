@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:53:25.067Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.4.5" etag="kV0pdWAGzQRp-94mid96" type="github"><diagram id="-mLd13jkVbaCUxOoeJ2B">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-24T10:02:52.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="RjLe9hCXaVfc-wrVq3S7" version="16.4.5" type="github">
+  <diagram id="-mLd13jkVbaCUxOoeJ2B" name="第 1 页">
+    <mxGraphModel dx="1586" dy="679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="TmAi_rF6FmjGa6dk19UC-2" target="TmAi_rF6FmjGa6dk19UC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-10" value="获取before和after镜像" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="TmAi_rF6FmjGa6dk19UC-2" target="TmAi_rF6FmjGa6dk19UC-6">
+          <mxGeometry x="0.3415" y="13" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="16" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="TmAi_rF6FmjGa6dk19UC-2" target="TmAi_rF6FmjGa6dk19UC-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-15" value="获取table" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;" vertex="1" connectable="0" parent="TmAi_rF6FmjGa6dk19UC-11">
+          <mxGeometry x="0.4211" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-2" value="&lt;p style=&quot;font-size: 12pt&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;UserRecord&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="TmAi_rF6FmjGa6dk19UC-5" target="TmAi_rF6FmjGa6dk19UC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-5" value="&lt;pre style=&quot;font-size: 12pt&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;List&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 92 , 197)&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;Field&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 92 , 197)&quot;&gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="244" y="130" width="189" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;" edge="1" parent="1" source="TmAi_rF6FmjGa6dk19UC-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="566" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-6" value="&lt;pre style=&quot;font-size: 12pt&quot;&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;FieldEntryHolder&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="244" y="260" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-7" value="&lt;pre style=&quot;font-size: 12pt&quot;&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;dbPair&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="248" y="383" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-8" value="&lt;pre style=&quot;background-color: #22272e ; color: #adbac7 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12.0pt&quot;&gt;fieldConverter.&lt;span style=&quot;color: #dcbdfb&quot;&gt;convert&lt;/span&gt;&lt;span style=&quot;color: #6cb6ff&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #f69d50&quot;&gt;field&lt;/span&gt;, &lt;span style=&quot;color: #f69d50&quot;&gt;beforeImage&lt;/span&gt;&lt;span style=&quot;color: #6cb6ff&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="563" y="255" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TmAi_rF6FmjGa6dk19UC-14" value="获取字段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="124" y="122" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
